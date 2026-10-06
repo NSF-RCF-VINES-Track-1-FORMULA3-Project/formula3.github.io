@@ -1,4 +1,6 @@
-# Research
+---
+title: Research
+---
 
 ## T1 Channel Characterization and Dataset Generation
 
