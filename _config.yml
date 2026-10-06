@@ -1,4 +1,9 @@
 title: FORMULA3
-description: NSF VINES Project
 theme: minima
-``
+
+header_pages:
+  - research.md
+  - team.md
+  - publications.md
+  - datasets.md
+  - news.md
