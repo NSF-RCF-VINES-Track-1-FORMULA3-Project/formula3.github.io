@@ -1,4 +1,6 @@
-## Datasets
+---
+title: Datasets
+---
 
 ## Planned Releases
 
