@@ -42,7 +42,6 @@ Muhammad Ismail
 
 ### Texas A&M University
 Sabit Ekin
-Mostafa Abdelhadi
 
 ### New York University
 Theodore S. Rappaport
