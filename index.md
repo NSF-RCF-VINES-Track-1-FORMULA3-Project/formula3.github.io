@@ -1,4 +1,7 @@
-# FORMULA3
+---
+layout: page
+title: FORMULA3
+---
 
 Framework for Optimal Resource Management Using Generalizable AI in FR3 Dynamic Programmable Wireless Environments
 
