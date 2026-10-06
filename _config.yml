@@ -7,3 +7,7 @@ header_pages:
   - publications.md
   - datasets.md
   - news.md
+
+collections:
+  news:
+    output: true
